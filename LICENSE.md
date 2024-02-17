@@ -3,7 +3,7 @@ The MIT License (MIT)
 Copyright (c) 2022 Pedro Moreno
 
 **NOTE**
-This license only applies to the GravCMS code of the Telephasic theme.  The
+This license only applies to the GravCMS code of the Programmable Matter theme.  The
 actual theme is CC3 licensed.  See the Readme for more information on its
 restrictions.
 

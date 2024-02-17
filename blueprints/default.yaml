@@ -41,4 +41,4 @@ form:
                    fields:
                      header.body_classes:
                        markdown: true
-                       description: 'Body class in Telephasic Theme for homepage only:<br />`homepage`'
+                       description: 'Body class in Programmable Matter Theme for homepage only:<br />`homepage`'

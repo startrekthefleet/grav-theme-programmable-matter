@@ -1,8 +1,8 @@
-# Telephasic Theme for Grav
+# Programmable Matter Theme for Grav
 
-![Telephasic](screenshot.jpg)
+![Programmable Matter](screenshot.jpg)
 
-Telephasic by [HTML5UP](https://html5up.net/telephasic), a responsive website template built with standards-compliant HTML and CSS. Includes HTML files, stylesheets, all supporting image and JS assets, and optional Sass sources.
+Programmable Matter by [HTML5UP](https://html5up.net/telephasic), a responsive website template built with standards-compliant HTML and CSS. Includes HTML files, stylesheets, all supporting image and JS assets, and optional Sass sources.
 
 The theme from HTML5Up.net is free for personal and commercial use under the [CCA 3.0 license](https://html5up.net/license).
 
@@ -22,7 +22,7 @@ The theme from HTML5Up.net is free for personal and commercial use under the [CC
 
 ## Default Options
 
-Telephasic comes with a few default options that can be set site-wide.  These options are:
+Programmable Matter comes with a few default options that can be set site-wide.  These options are:
 
 ```yaml
 production-mode:              # In production mode, only minified CSS is used. When disabled, nested CSS are enabled
@@ -61,7 +61,7 @@ custom_logo:
 custom_logo_mobile:
     - name: 'my-custom-mobile-logo.png'    
 ```
-Alternatively, you can you use the drag-n-drop "Custom Logo" field in the Telephasic theme options.
+Alternatively, you can you use the drag-n-drop "Custom Logo" field in the Programmable Matter theme options.
 
 ### Hero Section
 
@@ -69,7 +69,7 @@ Alternatively, you can you use the drag-n-drop "Custom Logo" field in the Teleph
 
 ## Installation
 
-Installing the Telephasic theme can be done in one of two ways. Our GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
+Installing the Programmable Matter theme can be done in one of two ways. Our GPM (Grav Package Manager) installation method enables you to quickly and easily install the theme with a simple terminal command, while the manual method enables you to do so via a zip file.
 
 The theme by itself is useful, but you may have an easier time getting up and running by installing a skeleton.
 
@@ -80,7 +80,7 @@ The simplest way to install this theme is via the [Grav Package Manager (GPM)](h
 
     bin/gpm install telephasic
 
-This will install the Telephasic theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/telephasic`.
+This will install the Programmable Matter theme into your `/user/themes` directory within Grav. Its files can be found under `/your/site/grav/user/themes/telephasic`.
 
 ### Manual Installation
 
@@ -94,7 +94,7 @@ You should now have all the theme files under
 
 ### Updating
 
-As development for the Telephasic theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Telephasic is easy, and can be done through Grav's GPM system, as well as manually.
+As development for the Programmable Matter theme continues, new versions may become available that add additional features and functionality, improve compatibility with newer Grav releases, and generally provide a better user experience. Updating Programmable Matter is easy, and can be done through Grav's GPM system, as well as manually.
 
 ## GPM Update (Preferred)
 
@@ -102,14 +102,14 @@ The simplest way to update this theme is via the [Grav Package Manager (GPM)](ht
 
     bin/gpm update telephasic
 
-This command will check your Grav install to see if your Telephasic theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
+This command will check your Grav install to see if your Programmable Matter theme is due for an update. If a newer release is found, you will be asked whether or not you wish to update. To continue, type `y` and hit enter. The theme will automatically update and clear Grav's cache.
 
 ### Manual Update
 
-Manually updating Telephasic is pretty simple. Here is what you will need to do to get this done:
+Manually updating Programmable Matter is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/themes/telephasic` directory.
-* Download the new version of the Telephasic theme from either [GitHub](https://github.com/pmoreno-rodriguez/grav-theme-telephasic) or [GetGrav.org](http://getgrav.org/downloads/themes).
+* Download the new version of the Programmable Matter theme from either [GitHub](https://github.com/pmoreno-rodriguez/grav-theme-telephasic) or [GetGrav.org](http://getgrav.org/downloads/themes).
 * Unzip the zip file in `your/site/user/themes` and rename the resulting folder to `telephasic`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
@@ -117,7 +117,7 @@ Manually updating Telephasic is pretty simple. Here is what you will need to do 
 
 ## Setup
 
-If you want to set Telephasic as the default theme, you can do so by following these steps:
+If you want to set Programmable Matter as the default theme, you can do so by following these steps:
 
 * Navigate to `/your/site/grav/user/config`.
 * Open the **system.yaml** file.

@@ -6,9 +6,9 @@ use RocketTheme\Toolbox\Event\Event;
 use Grav\Common\Page\Interfaces\PageInterface;
 
 /**
- * Telephasic Theme
+ * Programmable Matter Theme
  *
- * Class Telephasic
+ * Class Programmable Matter
  *
  * @category Extensions
  * @package  Grav\Theme
@@ -17,7 +17,7 @@ use Grav\Common\Page\Interfaces\PageInterface;
  * @link     https://github.com/pmoreno-rodriguez/grav-theme-telephasic
  */
 
-class Telephasic extends Theme
+class Programmable Matter extends Theme
 {
     public static function getSubscribedEvents()
     {
